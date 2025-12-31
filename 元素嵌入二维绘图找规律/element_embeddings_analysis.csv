@@ -1,0 +1,101 @@
+atomic_number,symbol,name,category,tsne_x,tsne_y,embedding_norm
+1,H,Hydrogen,reactive nonmetals,14.853177,9.974068,27.56523
+2,He,Helium,noble gas,-6.521201,-20.809572,27.550371
+3,Li,Lithium,alkali metal,-19.219446,7.690041,27.559313
+4,Be,Beryllium,alkaline earth metal,1.463487,-5.5877647,27.56071
+5,B,Boron,metalloid,32.664513,26.064201,27.561693
+6,C,Carbon,reactive nonmetals,37.971645,52.145256,27.555635
+7,N,Nitrogen,reactive nonmetals,58.471523,15.8279,27.56405
+8,O,Oxygen,reactive nonmetals,-10.292365,21.381126,27.554197
+9,F,Fluorine,reactive nonmetals,38.41125,6.304906,27.562433
+10,Ne,Neon,noble gas,58.967754,16.865416,27.545404
+11,Na,Sodium,alkali metal,-20.15254,8.541039,27.55473
+12,Mg,Magnesium,alkaline earth metal,-33.059067,24.572634,27.551765
+13,Al,Aluminium,post-transition metals,-32.876217,26.940722,27.555235
+14,Si,Silicon,metalloid,-35.159027,29.556303,27.558958
+15,P,Phosphorus,reactive nonmetals,32.412964,24.714172,27.562195
+16,S,Sulfur,reactive nonmetals,15.77841,10.73731,27.562605
+17,Cl,Chlorine,reactive nonmetals,8.583459,-22.765871,27.561546
+18,Ar,Argon,noble gas,32.936356,-1.4515328,27.56472
+19,K,Potassium,alkali metal,43.85665,8.6298685,27.564703
+20,Ca,Calcium,alkaline earth metal,-11.668332,-6.970366,27.560062
+21,Sc,Scandium,transition metal,-8.79771,24.136705,27.555254
+22,Ti,Titanium,transition metal,-32.939953,28.415232,27.558674
+23,V,Vanadium,transition metal,-19.502005,29.857557,27.570124
+24,Cr,Chromium,transition metal,-50.565224,-2.9759336,27.560316
+25,Mn,Manganese,transition metal,-48.21171,-2.6263375,27.551394
+26,Fe,Iron,transition metal,-50.024506,-1.6236528,27.556372
+27,Co,Cobalt,transition metal,-51.71514,0.41989082,27.555614
+28,Ni,Nickel,transition metal,-49.52935,1.9649017,27.546412
+29,Cu,Copper,transition metal,-48.19391,4.252808,27.549463
+30,Zn,Zinc,transition metal,-45.763798,5.468314,27.5517
+31,Ga,Gallium,post-transition metals,-9.659052,-9.765612,27.566916
+32,Ge,Germanium,metalloid,-23.867321,-2.9667969,27.563887
+33,As,Arsenic,metalloid,-6.3941193,-65.331726,27.544191
+34,Se,Selenium,reactive nonmetals,13.630219,-6.241742,27.569641
+35,Br,Bromine,reactive nonmetals,37.11035,5.0756483,27.558752
+36,Kr,Krypton,noble gas,33.918823,0.37025726,27.549446
+37,Rb,Rubidium,alkali metal,10.181717,-7.389106,27.563818
+38,Sr,Strontium,alkaline earth metal,-11.131731,-5.2137218,27.559134
+39,Y,Yttrium,transition metal,-7.7501097,25.020844,27.549948
+40,Zr,Zirconium,transition metal,-29.306263,32.317955,27.55338
+41,Nb,Niobium,transition metal,-26.6224,32.96697,27.554956
+42,Mo,Molybdenum,transition metal,-25.15554,31.94354,27.556973
+43,Tc,Technetium,transition metal,5.9489355,-28.013433,27.555986
+44,Ru,Ruthenium,transition metal,-21.198841,-15.473664,27.556068
+45,Rh,Rhodium,transition metal,-20.18481,-14.464314,27.562132
+46,Pd,Palladium,transition metal,-54.90679,13.757327,27.54619
+47,Ag,Silver,transition metal,-51.984665,9.832618,27.558868
+48,Cd,Cadmium,transition metal,-15.162271,-10.39037,27.553547
+49,In,Indium,post-transition metals,-7.5616693,-64.972916,27.556261
+50,Sn,Tin,post-transition metals,-24.380978,-1.7511919,27.558174
+51,Sb,Antimony,metalloid,-11.75397,-11.76514,27.569557
+52,Te,Tellurium,metalloid,-22.845133,-5.3773108,27.558256
+53,I,Iodine,reactive nonmetals,38.08585,9.62935,27.556372
+54,Xe,Xenon,noble gas,-7.0509634,-18.836292,27.541845
+55,Cs,Caesium,alkali metal,38.137783,53.54277,27.546274
+56,Ba,Barium,alkaline earth metal,-15.101149,-6.2681637,27.562351
+57,La,Lanthanum,lanthanide,-5.674097,26.59636,27.549368
+58,Ce,Cerium,lanthanide,-4.2827535,27.612806,27.553513
+59,Pr,Praseodymium,lanthanide,15.321075,-28.174314,27.555271
+60,Nd,Neodymium,lanthanide,17.020784,-27.22594,27.55077
+61,Pm,Promethium,lanthanide,13.661747,-11.997222,27.554775
+62,Sm,Samarium,lanthanide,14.277985,-29.077517,27.55326
+63,Eu,Europium,lanthanide,10.181054,-24.932993,27.554792
+64,Gd,Gadolinium,lanthanide,15.995186,-31.501553,27.547298
+65,Tb,Terbium,lanthanide,29.430931,-48.305885,27.539783
+66,Dy,Dysprosium,lanthanide,30.09051,-45.96698,27.550367
+67,Ho,Holmium,lanthanide,31.859177,-46.234444,27.548111
+68,Er,Erbium,lanthanide,29.85486,-44.544804,27.559628
+69,Tm,Thulium,lanthanide,7.8367777,-26.785868,27.561321
+70,Yb,Ytterbium,lanthanide,11.982127,-30.332972,27.544252
+71,Lu,Lutetium,lanthanide,4.18191,-4.703259,27.55925
+72,Hf,Hafnium,transition metal,-30.551748,35.170216,27.558632
+73,Ta,Tantalum,transition metal,-25.630465,35.322834,27.565733
+74,W,Tungsten,transition metal,-21.162373,30.476448,27.564917
+75,Re,Rhenium,transition metal,-31.965979,37.35079,27.56746
+76,Os,Osmium,transition metal,-17.272081,-11.997641,27.55253
+77,Ir,Iridium,transition metal,-22.73026,-17.19516,27.55447
+78,Pt,Platinum,transition metal,-55.64668,14.763786,27.552193
+79,Au,Gold,transition metal,-53.30773,11.605565,27.556849
+80,Hg,Mercury,transition metal,8.479494,-8.769087,27.560665
+81,Tl,Thallium,post-transition metals,9.988529,-5.862382,27.558037
+82,Pb,Lead,post-transition metals,-9.129017,-15.79575,27.562248
+83,Bi,Bismuth,post-transition metals,-12.64817,-9.223276,27.56426
+84,Po,Polonium,metalloid,31.82041,22.588741,27.53938
+85,At,Astatine,metalloid,-9.074291,-66.066765,27.55161
+86,Rn,Radon,noble gas,38.010067,47.24837,27.547085
+87,Fr,Francium,alkali metal,43.289948,4.8809376,27.555672
+88,Ra,Radium,alkaline earth metal,34.819653,5.7718134,27.55354
+89,Ac,Actinium,actinide,34.20429,35.29176,27.547205
+90,Th,Thorium,actinide,3.9182372,-2.5675533,27.56196
+91,Pa,Protactinium,actinide,42.423717,6.7743707,27.574512
+92,U,Uranium,actinide,10.083384,-2.9821754,27.56503
+93,Np,Neptunium,actinide,11.803331,-10.506782,27.554346
+94,Pu,Plutonium,actinide,12.210092,-22.867695,27.555883
+95,Am,Americium,actinide,34.404293,36.490456,27.554754
+96,Cm,Curium,actinide,36.815716,49.44219,27.547083
+97,Bk,Berkelium,actinide,33.098938,28.55275,27.54963
+98,Cf,Californium,actinide,35.44172,49.705353,27.546125
+99,Es,Einsteinium,actinide,32.802658,6.4197245,27.552923
+100,Fm,Fermium,actinide,38.028282,2.455506,27.54092
